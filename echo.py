@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """An enhanced version of the 'echo' cmd line utility."""
-__author__ = "???"
+__author__ = "Triston Reeves"
 import sys
 import argparse
 def create_parser():
